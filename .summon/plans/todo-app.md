@@ -1,5 +1,5 @@
 ---
-status: pending
+status: implemented
 title: Build a Todo App with Local Storage
 ---
 
